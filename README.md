@@ -1,2 +1,4 @@
 # Ritual-App-
-Ritual is a habit tracking and analytics application that helps you create and maintain good long term habits. 
+Ritual is a habit tracking and analytics application that helps you create and maintain good long-term habits. Ritual is being built to take advantage of modern advancements in AI and machine learning to provide consumers with the best tooling to quanitify behavior, create and maintain good habits, and break bad ones. The idea for Ritual was born out of a deep desire to change my own behavior and the relationship I have with technology. In addition, i'm very interested in learning more about people and finding creative ways to benefit from the vast collection of behavioral data. 
+
+This project will be completely bootstrapped/self-funded with no plans to raise external funding. All Subscription proceeds will go toward further development of the product, building new features/integrations that customers demand, and getting Ritual in front of anyone and everyone who could benefit from it.   
